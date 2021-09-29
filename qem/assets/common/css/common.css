@@ -48,6 +48,16 @@ body form {font-family:'본고딕', 'notosanscjkkr', 'sans-serif';font-size: 16p
 a {text-decoration: none;}
 header {position: fixed;top: 0;padding: 20px 0 20px 0;width: 100%;background-color: #fff;}
 footer {position: fixed;bottom: 0;padding: 16px 0 21px 0;width: 100%;background-color: #fff;}
+
+/* select class  */
+.f-thin {font-weight: 100;}
+.f-l1ight {font-weight: 200;}
+.f-demi {font-weight: 300;}
+.f-regu {font-weight: 400;}
+.f-medium {font-weight: 500;}
+.f-bold {font-weight: 700;}
+.f-black {font-weight: 900;}
+
 .left-menu {position: absolute;top: 25px;left: 20px;}
 .search {position: absolute;top: 21px;right: 20px;}
 
@@ -69,8 +79,8 @@ footer {position: fixed;bottom: 0;padding: 16px 0 21px 0;width: 100%;background-
 							height: 29px;
 						}						
 
-.f-nav li {float: left;width: 20%;}
-.f-nav li a {font-size: 0;}
+.f-nav li {float: left;width: 20%;text-align: center;}
+.f-nav li a {font-size: 0.831em;color: #232323;}
 
 .f-nav li a, 
 .f-nav li a span {display: block}
@@ -79,31 +89,31 @@ footer {position: fixed;bottom: 0;padding: 16px 0 21px 0;width: 100%;background-
 	background: url('../../common/images/icon-main.png') no-repeat -3px -3px;
 	background-size: 271px 45px;
 	width: 41px;
-	height: 40px;	
+	height: 41px;	
 }
 .f-nav .menu2 {
 	background: url('../../common/images/icon-main.png') no-repeat -48px -3px;
 	background-size: 271px 45px;
 	width: 45px;
-	height: 34px;		
+	height: 35px;		
 }
 .f-nav .menu3 {
-	background: url('../../common/images/icon-main.png') no-repeat -98px -3px;
+	background: url('../../common/images/icon-main.png') no-repeat -98px -1px;
 	background-size: 271px 45px;
 	width: 32px;
-	height: 33px;		
+	height: 36px;		
 }
 .f-nav .menu4 {
-	background: url('../../common/images/icon-main.png') no-repeat -135px -3px;
+	background: url('../../common/images/icon-main.png') no-repeat -135px -1px;
 	background-size: 271px 45px;
 	width: 39px;
-	height: 39px;		
+	height: 42px;		
 }
 .f-nav .menu5 {
-	background: url('../../common/images/icon-main.png') no-repeat -179px -3px;
+	background: url('../../common/images/icon-main.png') no-repeat -179px -1px;
 	background-size: 271px 45px;
 	width: 28px;
-	height: 32px;		
+	height: 42px;		
 }
 
 
