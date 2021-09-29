@@ -1,0 +1,6 @@
+#main-bg {background-color: #101731;}
+.logo {}
+.logo a {display: block;}
+
+.logo a,
+.logo a img {margin: 0 auto;width: 50px;height: 30px;}
