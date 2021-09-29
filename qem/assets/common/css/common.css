@@ -89,31 +89,31 @@ footer {position: fixed;bottom: 0;padding: 16px 0 21px 0;width: 100%;background-
 	background: url('../../common/images/icon-main.png') no-repeat -3px -3px;
 	background-size: 271px 45px;
 	width: 41px;
-	height: 41px;	
+	height: 50px;	
 }
 .f-nav .menu2 {
 	background: url('../../common/images/icon-main.png') no-repeat -48px -3px;
 	background-size: 271px 45px;
 	width: 45px;
-	height: 35px;		
+	height: 50px;		
 }
 .f-nav .menu3 {
 	background: url('../../common/images/icon-main.png') no-repeat -98px -1px;
 	background-size: 271px 45px;
 	width: 32px;
-	height: 36px;		
+	height: 50px;		
 }
 .f-nav .menu4 {
 	background: url('../../common/images/icon-main.png') no-repeat -135px -1px;
 	background-size: 271px 45px;
 	width: 39px;
-	height: 42px;		
+	height: 50px;		
 }
 .f-nav .menu5 {
 	background: url('../../common/images/icon-main.png') no-repeat -179px -1px;
 	background-size: 271px 45px;
 	width: 28px;
-	height: 42px;		
+	height: 50px;		
 }
 
 
